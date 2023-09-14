@@ -1,2 +1,0 @@
-# Matemitica-Einsten-ZapZap
-calculadora
